@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.tomergilan.mixer",
+      "sha256_cert_fingerprints": [
+        "8B:9C:7F:F6:43:45:00:46:DB:44:33:BF:EF:3A:D9:B5:68:16:40:73:DE:3C:F3:3D:A3:2E:CD:72:B8:B9:48:57"
+      ]
+    }
+  }
+]
